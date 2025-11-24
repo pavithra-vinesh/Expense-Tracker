@@ -41,7 +41,6 @@ Which category? Food
 
 # How to run code
 -javac src/*.java src/models/*.java src/services/*.java src/ui/*.java
-
 -java -cp src Main 
 
 
