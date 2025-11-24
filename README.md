@@ -31,8 +31,11 @@ MAIN MENU
 What would you like to do? 1
 
 ADD NEW EXPENSE
+
 What did you spend money on? Groceries
+
 How much did it cost? $85.50
+
 Which category? Food
 
 
