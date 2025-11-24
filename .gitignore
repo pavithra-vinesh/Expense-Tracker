@@ -1,104 +1,16 @@
-
-## File: `.gitignore`
-
-```gitignore
-# Compiled class files
+# Compiled Java files
 *.class
-
-# Log files
-*.log
-*.log.*
-
-# Package files
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# Build output directories
-bin/
-build/
-out/
-target/
 
 # IDE files
 .vscode/
 .idea/
-*.iml
-*.iws
-*.ipr
-.classpath
-.project
-.settings/
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
+# Windows files
 Thumbs.db
 
-# Runtime data
+# Your expense data
 data/expenses.txt
-data/*.tmp
-*.tmp
 
-# Crash logs
-hs_err_pid*
-
-# Mobile tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-
-# Maven
-target/
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
-release.properties
-dependency-reduced-pom.xml
-buildNumber.properties
-.mvn/timing.properties
-.mvn/wrapper/maven-wrapper.jar
-
-# Gradle
-.gradle/
-build/
-
-# Mac
-.DS_Store
-
-# Windows
-Thumbs.db
-
-# Application specific
-/data/
-!/data/.gitkeep
-expenses_backup/
-*.ser
-*.dat
-
-# Temporary files
-*.tmp
-*.temp
-
-# Documentation
-*.doc
-*.docx
-*.pdf
+# Build folders
+bin/
+out/
